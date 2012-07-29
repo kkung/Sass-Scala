@@ -1,0 +1,9 @@
+target
+.classpath
+.project
+.cache
+.settings
+.ensime
+.ensime_lucene
+.DS_Store
+*.dylib
